@@ -1,10 +1,10 @@
 console.log("Creacion de objeto vacio")
 
 // Ejemplo 1: Crear un objeto
-const myObjetc = {} // Esto es un objeto vacío
+const emptyObject = {} // Esto es un objeto vacío
 console.log("Ejemplo 1: Crear un objeto vacío")
 console.log("1.- Objeto vacio");
-console.log(myObjetc)
+console.log(emptyObject)
 /* 
 // Ejemplo 2: Crear un objeto con propiedades
 const myObjetc2 = {
