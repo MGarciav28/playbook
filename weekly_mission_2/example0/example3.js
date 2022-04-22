@@ -17,6 +17,13 @@ const myPet = {
   }
 
 console.log("Ejemplo 3: Crear un objeto con diferentes propiedades");
+console.log("Todo mi objeto");
 console.log(myPet);
-
+console.log(`Nombre:  ${myPet.name}`);
+console.log("Sobrenombres");
+console.log(myPet.nicknames);
+console.log("Direccion");
+console.log(myPet.address);
+console.log("Otra forma de mostrar Direccion");
+console.log(myPet["address"]);
 
