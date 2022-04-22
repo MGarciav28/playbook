@@ -1,3 +1,4 @@
+// Ejemplo 2: Crear un objeto con propiedades
 const figure = {
     name: "rectangulo",
     color: "orange",

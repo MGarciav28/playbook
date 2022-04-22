@@ -1,3 +1,4 @@
+// Ejemplo 3: Objeto con diferentes propiedades
 const myPet = {
     name: "Duke",
     age: 4,

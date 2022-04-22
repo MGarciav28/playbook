@@ -1,3 +1,4 @@
+// Ejemplo 5: Objeto con método que recibe parámetros
 const myPet = {
   name: "Duke",
   sayHelloToMyPet: function(yourPet){
