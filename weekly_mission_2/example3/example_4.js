@@ -15,4 +15,4 @@ class Repository {
   console.log("Ejemplo 4: Métodos en los objetos")
   const myRepo = new Repository("LaunchX", "carlogilmar", "js", 100)
   console.log(myRepo.getInfo())
-  
+      
